@@ -6,6 +6,8 @@
 
 A high-end, single-page developer portfolio with **GSAP** scroll animations, a **Three.js** 3D experience, section-based active navigation, and an **AI chat** assistant — all wrapped in a premium dark theme.
 
+[![View Live Demo](https://img.shields.io/badge/🚀-View_Live_Demo-00C853?style=flat-square)](https://ahsan-dogar.github.io/DOGAR-developer/)
+
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)]()
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)]()
